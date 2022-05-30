@@ -4,7 +4,8 @@
   "description": "102 Clan exclusive discord bot.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "command": "node deploy-commands.js"
   },
   "repository": {
     "type": "git",
