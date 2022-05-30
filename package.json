@@ -1,0 +1,23 @@
+{
+  "name": "102manager",
+  "version": "1.0.0",
+  "description": "102 Clan exclusive discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnhuan1802/102Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnhuan1802/102Manager/issues"
+  },
+  "homepage": "https://github.com/tnhuan1802/102Manager#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
